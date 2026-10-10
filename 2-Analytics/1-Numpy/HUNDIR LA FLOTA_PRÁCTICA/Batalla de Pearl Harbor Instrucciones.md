@@ -1,4 +1,4 @@
-![Batalla de Pearl Harbor](./img/hundir_la_flota.jpg)
+![Batalla de Pearl Harbor](./img/Pearl_Harbor.jpeg)
 
 
 
