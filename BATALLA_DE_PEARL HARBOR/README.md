@@ -4,6 +4,11 @@
 
 # **BATALLA DE PEARL HARBOR**
 
+## <u> Sobre este proyecto <\u>
+
+Es un proyecto que versiona el juego de hundir la flota, está realizado por Beatriz Granda Arroyo. El proyecto está realizado para trabajar en numpy y practicar funciones, bucles, ...
+
+
 ##  <u> *Instrucciones*</u>
 
 Nos encontramos a finales de noviembre de 1941 en las inmediaciones de las islas de Hawaii. Estados Unidos se ha enterado de un ataque inminente por parte del país Nipon. Ante esta situación, los estadounidenses tratarán de destruir los portaaviones japoneses con sus acorazados. Pero, ¿podrán conseguirlo?, o ¿volverá a repetirse la historia?.
