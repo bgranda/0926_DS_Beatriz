@@ -219,12 +219,13 @@ def chequeo_victoria(tablero):
 def turno():
     """Gestiona un turno completo: jugador y ordenador."""
     print("\n--- Turno del jugador ---")
+    disparo_US(tablero1_Japon, coordenada =)
     if chequeo_victoria(tablero1_Japon):
         print("Has evitado la tragedia. ¡Has ganado!")
         return True
    
     print("\n--- Turno del ordenador ---")
-    disparo_Japón()
+    disparo_Japón(tablero1_US)
     if chequeo_victoria(tablero1_US):
         print("La tragedia se repite. ¡Has perdido!")
         return True
