@@ -4,7 +4,7 @@
 
 # **BATALLA DE PEARL HARBOR**
 
-## <u> Sobre este proyecto <\u>
+## <u> Sobre este proyecto </u>
 
 Es un proyecto que versiona el juego de hundir la flota, está realizado por Beatriz Granda Arroyo. El proyecto está realizado para trabajar en numpy y practicar funciones, bucles, ...
 
